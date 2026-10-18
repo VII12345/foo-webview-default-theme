@@ -1,5 +1,7 @@
 [English](./README.md) | 中文
 
+> **已迁移：** 本项目已迁移到 [VII12345/foo-webview-community-theme](https://github.com/VII12345/foo-webview-community-theme)。请到新仓库查看源码、下载最新发行包和提交问题。
+
 <p align="center">
   <img src=".github/assets/readme-banner.jpg" alt="Default Theme 社区增强版：WinUI 3 的设计，装着一颗 foobar2000 的心" width="100%" />
 </p>

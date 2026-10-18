@@ -1,5 +1,7 @@
 English | [中文](./README.zh-CN.md)
 
+> **Moved:** This project now lives at [VII12345/foo-webview-community-theme](https://github.com/VII12345/foo-webview-community-theme). Please use the new repository for source, releases and issues.
+
 <p align="center">
   <img src=".github/assets/readme-banner.jpg" alt="Default Theme community edition: WinUI 3 design with a foobar2000 heart" width="100%" />
 </p>
